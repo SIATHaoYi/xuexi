@@ -1,0 +1,15 @@
+查看环境：conda info -e 
+切换到目标环境：conda activate 【环境名】
+在环境下安装软件包
+
+切换到juoyter文件夹下
+jupyter notebook打开jupyter
+密码：123456
+
+
+桌面保持路径：C:/Users/admin/Desktop/文件名.格式
+
+
+pycharm新建chonda环境
+在选择环境下安装包
+pip install xxx
